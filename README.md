@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I am nowadays working on various projects in PHP and Python for my Hypes IT portfolio, which aims to make it easier and cheaper for small businesses to launch a website, without too much hassle and external coders. I don't like spending too much time on setting up a webspace, hence my idea to shortcut this. With short, compact and clean code you can very easily modify to your liking. All my code is open source, tweaked versions of already existing themes and code. I believe in internet piracy and making things better, that others started.
+
+I also have a custom language based off Dutch and Frisian, my home tongues, to integrate them better into British English specifically. You are free to watch it and write me feedback.
+
+🌱 I am currently learning AI, the MetaVerse and Augmented/Virtual Reality, which also shuts in 3D models and spacetime physics. I love adding new dimensions to IT and Quantum Computing. 
+
+😄 My pronouns are they/them, I identify as a male pansexual bigender. Don't take those too seriously. I am a gender freelancer, who doesn't fit in an existing letter (or political agenda), I think.
+
+💬 Ask me about how to save costs on your IT department, the Cloud and how to make songs in your native language for free.
