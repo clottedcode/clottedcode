@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I am the Founder of Hypes Europe and Clotted Code is simply a Lab of experiments, mostly graphical, robotics, UFO technology and with AI. If you like me want to make IT easier and more robust and starter friendly, please join my Struggle. I also like to make Custom Language Apps in Python, so people could make their own language wordbooks as city people like to change words often and add new ones. I am progressive liberal on the political side, I support the Free Market, I like Aliens and outer space and I dislike the World Ecoonomic Forum. I am from a Farmers Family and they organize the Amsterdam Pride festival, which I want to make more radical and think is too soft and it has to be more welcoming to heterosexuals as well. I think as a business I should make a stance for more Earth and family-friendly politics to include in my culture and have an open discussion space, where new thoughts are possible. You can write to me in English, Dutch, German, Frisian or French (maybe).   
+🔭 I am the Founder of Hypes Europe and Clotted Code is simply a Lab of Python and AI experiments. I want to try to make simple Content Management System that uses Agentic AI to streamline workflow for less experienced developers. IT can have a steep learning curve and I want to make it more beginner friendly. I also like politics, faith and social science. My highest schooling is Cygnus Gymnasium. I have e-commerce experience. I can make custom Woocommerce templates.
 
-🌱 I am currently learning AI, the MetaVerse and Augmented/Virtual Reality and Alien Technology which has non-hallucinatory AI.
+🌱 I am currently learning AI, the MetaVerse and Augmented/Virtual Reality and non-hallucinatory AI.
 
-😄 My pronouns are they/them, I identify as a male-born pansexual bigender. 
+😄 My pronouns are they/them, I identify as a male pansexual. 
 
 💬 Ask me about how to save costs on your IT department, setting up the Cloud and ditching Big Tech. 
